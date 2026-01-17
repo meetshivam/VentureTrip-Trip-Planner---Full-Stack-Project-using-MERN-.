@@ -1,4 +1,4 @@
-# 🗺️ Venture Trip Planner
+# 🗺️ VentureTrip | Trip Planner
 
 A **full-stack MERN web application** that helps users plan trips to major global destinations and view **real-time weather forecasts**.
 
